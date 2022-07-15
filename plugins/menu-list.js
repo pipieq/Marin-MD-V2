@@ -302,7 +302,7 @@ Note: Jika Fitur Eror Harap Di Maklumin
 `,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "Join Group Bot\nhttps://chat.whatsapp.com/DYbwxUvMEzTEsOuYQnBDm2\n>‿‿<",
+            footerText: "http://tiny.cc/X-ZC",
             mtype: 'listMessage',
             sections: [
               {
